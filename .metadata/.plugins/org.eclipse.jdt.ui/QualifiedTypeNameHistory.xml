@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Exercicios.sysout_print"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="entities_enum.OrderStatus"/>
+    <fullyQualifiedTypeName name="Iniciante.Sysout"/>
+    <fullyQualifiedTypeName name="Entities.enums.WorkerLevel"/>
+    <fullyQualifiedTypeName name="Entities.Department"/>
+    <fullyQualifiedTypeName name="Entities.ACCOUNT"/>
+    <fullyQualifiedTypeName name="Entities_Enum.ORDER_STATUS"/>
+    <fullyQualifiedTypeName name="Entities__Java.Produto"/>
+    <fullyQualifiedTypeName name="Entities__Enums.Order_Status"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="model.exceptions.DomainExceptions"/>
+    <fullyQualifiedTypeName name="A_Progresso.SYSOUT"/>
+    <fullyQualifiedTypeName name="Tabuleiro.Board"/>
+    <fullyQualifiedTypeName name="Xadrez.Pieces.Rook"/>
+    <fullyQualifiedTypeName name="Xadrez.Color"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="Tabuleiro.Position"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+</qualifiedTypeNameHistroy>

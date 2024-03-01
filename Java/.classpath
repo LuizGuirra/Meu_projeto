@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Curso_Java"/>
+	<classpathentry kind="src" path="Cursando_Java"/>
+	<classpathentry kind="src" path="Curso_Enumeracao"/>
+	<classpathentry kind="src" path="Projeto_Curso"/>
+	<classpathentry kind="src" path="Projeto_Java"/>
+	<classpathentry kind="src" path="Java_Curso"/>
+	<classpathentry kind="src" path="Hereditario"/>
+	<classpathentry kind="src" path="Polimorfismo"/>
+	<classpathentry kind="src" path="Polimorfismo_e_hereditario"/>
+	<classpathentry kind="src" path="Polimorfismo_"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
