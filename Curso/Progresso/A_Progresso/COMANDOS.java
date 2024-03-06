@@ -13,6 +13,7 @@ public class COMANDOS {
 		System.out.println("Alt + Shift + A = ALTERAR MODO DE SELEÇÃO DE BLOCO");
 		System.out.println("Alt + Shift + N = DÁ A OPÇÃO DE CRIAR UMA NOVA PASTA, CLASSE, PACOTE, ETC...");
 		System.out.println("Alt + Shift + R = RENOMEAR");
+		System.out.println("Alt + Shift + S = ABRIR O SOURCE");
 		System.out.println("Alt + Shift + T = ABRIR O REFACTOR");
 		
 		System.out.println("--------------------------------------------------------------------------------");

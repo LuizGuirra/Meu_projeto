@@ -8,6 +8,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="package application;"/>
 			<item value="CO"/>
 			<item value="co"/>
 			<item value="out"/>
