@@ -26,7 +26,7 @@ public class Program_ {
 		System.out.println(file);
 	}
 	
-	boolean success = new File(strPath + "\\subdir").mkdir();
+	boolean success = new File(strPath + "\\Nado").mkdir();
 	System.out.println("Directory created succesfully: " + success);
 	
 	sc.close();

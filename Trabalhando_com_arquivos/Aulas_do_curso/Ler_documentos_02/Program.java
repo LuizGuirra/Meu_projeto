@@ -8,7 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		File file = new File("c:\\temp\\in.txt");
+		File file = new File("c:\\temp\\out.txt");
 		Scanner sc = null;
 		try {
 			sc = new Scanner(file);

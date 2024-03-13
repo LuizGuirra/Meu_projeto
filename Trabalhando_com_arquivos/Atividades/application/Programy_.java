@@ -29,7 +29,9 @@ public class Programy_ {
 		File sourceFile = new File(sourceFileStr);
 		String sourceFolderStr = sourceFile.getParent();
 		
-		String targetFileStr = sourceFolderStr + "\\out\\summary.csv";
+		@SuppressWarnings("unused")
+		boolean success = new File(sourceFolderStr + "\\Lu").mkdir();
+		String targetFileStr = sourceFolderStr + "\\Lu\\summary.csv";
 		
 		try (BufferedReader br = new BufferedReader(new FileReader(sourceFileStr))){
 			
