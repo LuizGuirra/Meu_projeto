@@ -13,5 +13,7 @@ public class ANOTAR {
 		// 7. ABRA O GITGINORE
 		// 8. ESCREVA NO PAINEL O QUE ESTÁ LOGO ABAIXO
 		System.out.println("java application/Program");
+		
+		System.out.println("Generics 238");
 	}
 }
